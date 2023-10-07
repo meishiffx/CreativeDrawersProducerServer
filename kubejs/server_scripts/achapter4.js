@@ -96,4 +96,12 @@ event.remove({id:'botania:mana_infusion/ender_pearl_from_ghast_tear'})
 event.shapeless('botania:glimmering_livingwood', ['botania:livingwood_log','minecraft:glowstone_dust'])
 
 event.shapeless('bigreactors:yellorium_ingot', ['immersiveengineering:ingot_uranium'])
+
+event.shapeless('9x kubejs:mix_ingot', ['kubejs:mix_block'])
+event.shapeless('9x kubejs:nether_star_fragment', ['minecraft:nether_star'])
+event.shapeless('4x kubejs:nether_quartz_shard', ['minecraft:quartz'])
+event.shapeless('9x kubejs:flint_chips', ['minecraft:flint'])
+event.shapeless('9x kubejs:emerald_chips', ['minecraft:emerald'])
+event.shapeless('9x kubejs:diamond_chips', ['minecraft:diamond'])
+event.shapeless('9x kubejs:obsidian_chips', ['minecraft:obsidian'])
 })

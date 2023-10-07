@@ -20,7 +20,7 @@ event.shaped('minecraft:emerald', [
 
 event.shaped('minecraft:obsidian', [           
     'SSS',
-    'S S',
+    'SSS',
     'SSS'
 ],{
     S: 'kubejs:obsidian_chips'

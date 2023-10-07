@@ -43,6 +43,7 @@
 		{
 			x: 0.0d
 			y: -2.0d
+			description: [""]
 			dependencies: ["0E56F5B6D2021879"]
 			id: "11359B52B5954661"
 			tasks: [{

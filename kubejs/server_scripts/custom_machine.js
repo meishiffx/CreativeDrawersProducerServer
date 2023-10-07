@@ -836,7 +836,7 @@ event.recipes.custommachinery.custom_machine("custom:pllet_machine", 60)
 //ultimate_controller
 event.recipes.custommachinery.custom_machine("custom:ultimate_controller", 600)
 .requireItem(Item.of('mekanism:pellet_antimatter'))
-.produceEnergyPerTick(900000000)
+.produceEnergyPerTick(1000000000)
 .requireStructure([
 [
     "  A  ",

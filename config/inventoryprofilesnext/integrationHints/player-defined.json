@@ -5,5 +5,13 @@
                 "horizontalOffset": 49
             }
         }
+    },
+    "mekanism.client.gui.machine.GuiElectrolyticSeparator": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 32,
+                "bottom": -1
+            }
+        }
     }
 }

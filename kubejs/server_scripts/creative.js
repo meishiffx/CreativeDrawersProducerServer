@@ -375,7 +375,7 @@ onEvent('recipes', event => {
 
 
 
-      //as
+      //rs
       event.custom({
         "type": "extendedcrafting:shaped_table",
         "pattern": [
@@ -919,16 +919,10 @@ event.remove({output:'creativewirelesstransmitter:creative_wireless_transmitter'
             "item": "rftoolspower:dimensionalcell_creative"
           },
           {
-            "type": "forge:nbt",
-            "item": "refinedstorage:creative_fluid_storage_disk",
-            "count": 1,
-            "nbt": "{Id:[I;1280779499,955139342,-1600064128,699855247]}"
+            "item": "refinedstorage:creative_fluid_storage_disk"
           },
           {
-            "type": "forge:nbt",
-            "item": "refinedstorage:creative_storage_disk",
-            "count": 1,
-            "nbt": "{Id:[I;-2111434331,-2044702971,-1925809413,-899994238]}"
+            "item": "refinedstorage:creative_storage_disk"
           },
           {
             "item": "pneumaticcraft:creative_upgrade"

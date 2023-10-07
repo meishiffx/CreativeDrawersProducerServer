@@ -71,7 +71,10 @@
         "mode": "output",
         "id": "output1",
         "type": "custommachinery:energy",
-        "capacity": 100000000000
+        "capacity": 99999999999999999,
+        "config": {
+          "output": true
+        }
       },
       {
           "type": "custommachinery:redstone",

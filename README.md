@@ -9,4 +9,6 @@ Replace "kubejs" and "schematics".
 
 如果需要联系我QQ103884270或QQ群819481915
 
+
+运行run脚本前请先安装forge服务端
 请使用JAVA17及以上运行run脚本

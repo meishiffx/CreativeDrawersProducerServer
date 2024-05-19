@@ -1,6 +1,5 @@
 # CreativeDrawersProducerServer
 Modpacks https://legacy.curseforge.com/minecraft/modpacks/creative-drawers-producer
-Download from https://github.com/meishiffx/CreativeDrawersProducerServer/releases
 
 
 Maybe you need quest book in English?

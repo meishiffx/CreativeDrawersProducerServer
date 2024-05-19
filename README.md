@@ -8,3 +8,5 @@ You need to download the English version(https://www.curseforge.com/minecraft/mo
 Replace "kubejs" and "schematics".
 
 如果需要联系我QQ103884270或QQ群819481915
+
+请使用JAVA17及以上运行run脚本

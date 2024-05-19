@@ -11,4 +11,7 @@ Replace "kubejs" and "schematics".
 
 
 运行run脚本前请先安装forge服务端
+
+java -jar forge-1.18.2-40.2.10-installer.jar nogui -installServer
+
 请使用JAVA17及以上运行run脚本
